@@ -1,3 +1,3 @@
-# nlp_study
+# NLP_study
 
-start : 2023.02 ~ 
+start : 2023.02 ~ ing
